@@ -1,2 +1,2 @@
 # About_Mine
-Short note about me (:
+Short note on about me (:
