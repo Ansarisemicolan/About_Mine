@@ -158,3 +158,12 @@ input:checked + .slider
 {
   box-shadow: 0 0 0 2px red, 0 0 8px red;
 }
+
+@media only screen and (max-width: 768px) {
+  .MyDetails{
+    position: static;
+}
+.switch{
+  display: none;
+}
+}
